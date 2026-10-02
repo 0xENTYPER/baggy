@@ -7,13 +7,19 @@
 
 [Live product](https://baggyapp.win) · [Telegram](https://t.me/BaggyApp_bot)
 
+![Product](https://img.shields.io/badge/product-live-16C866) ![Execution](https://img.shields.io/badge/execution-non--custodial-111827) ![Scope](https://img.shields.io/badge/repository-case_study-EFFAF3)
+
 </div>
 
 Baggy is a non-custodial, multi-chain launchpad and trading workspace built for fast-moving token markets. It brings discovery, wallet connection, token launches, trading, and portfolio context into one consistent product.
 
 The goal is simple: reduce the distance between finding a token and acting on it, while keeping the user in control of every transaction.
 
-![Baggy multi-chain token feed](assets/feed.png)
+![Baggy product walkthrough](assets/product-tour.gif)
+
+| Product | My contribution | Status | Core stack |
+| --- | --- | --- | --- |
+| Multi-chain discovery, launch, and trading workspace | Product architecture, interaction design, wallet flows, token discovery, and delivery | Live product | TypeScript, React, EVM/Solana wallets, Telegram Mini Apps |
 
 ## The problem
 

@@ -5,7 +5,7 @@
 
 ### Discover, launch, and trade tokens without breaking the flow.
 
-[Live product](https://baggyapp.win) · [X](https://x.com/BaggyApp) · [Telegram](https://t.me/BaggyApp_bot)
+[Live product](https://baggyapp.win) · [Telegram](https://t.me/BaggyApp_bot)
 
 </div>
 
@@ -396,4 +396,4 @@ The repository documents the product problem, user journey, design principles, a
 
 ## Author
 
-Built by [@entyper](https://x.com/entyper).
+Built by [0xENTYPER](https://github.com/0xENTYPER).
